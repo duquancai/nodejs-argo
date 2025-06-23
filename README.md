@@ -1,7 +1,7 @@
 ## 赞助
 * 感谢[VTEXS](https://console.vtexs.com/?affid=1548)提供赞助优质双isp vps。
 
-# 说明 （部署前请务必仔细阅读完）
+# 说明 （部署前请仔细阅读完）
 * 本项目是针对node环境的paas平台和游戏玩具而生，采用Argo隧道部署节点，集成哪吒探针v0或v1可选。
 * node玩具平台只需上传index.js和package.json即可，paas平台需要docker部署的才上传Dockerfile。
 * 如需是链接github部署，请先删除README.md说明文件。
